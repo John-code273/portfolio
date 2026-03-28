@@ -1,4 +1,4 @@
-Olá, eu me chamo John Abner
+#Olá, eu me chamo John Abner
 
 🎓 Estudante do 3º ano do ensino médio
 💻 Focado em desenvolvimento Java
@@ -6,14 +6,14 @@ Olá, eu me chamo John Abner
 Atualmente estou estudando Programação Orientada a Objetos com Java e desenvolvendo projetos práticos para consolidar
 meus conhecimentos e conquistar minha primeira oportunidade como desenvolvedor.
 
-🧠 *Sobre mim*
+🧠 ##Sobre mim
 
 Sou um estudante dedicado à área de tecnologia, com foco em desenvolvimento back-end utilizando Java.
 Tenho uma base sólida em lógica de programação e estou evoluindo constantemente através de cursos e projetos próprios.
 
 Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática e crescer como desenvolvedor.
 
- *Tecnologias que estou aprendendo:*
+ #Tecnologias que estou aprendendo:
 ☕ Java
 🧱 Programação Orientada a Objetos (POO)
 🔧 Git e GitHub
@@ -42,19 +42,19 @@ Exemplo: Aplicação simples para controle de gastos
 Pequena descrição
 Exemplo: Simulação de sistema bancário com classes e herança
 
- *Objetivos*
+ ##Objetivos
 🚀 Conseguir minha primeira vaga de estágio como desenvolvedor Java
 📚 Aprofundar conhecimentos em back-end
 🏗️ Desenvolver projetos mais completos e reais
 
- ´´Contatos´´
+ ##Contatos
  Email: john.silvaromao@gmail.com
  
  LinkedIn: https://linkedin.com/in/john-abner-287447314
  
  GitHub: https://github.com/John-code273
 
-´´Observação:´´
+##Observação:
 
 Este repositório faz parte da minha jornada de aprendizado.
 Estou constantemente evoluindo, então melhorias e novos projetos serão adicionados ao longo do tempo.
