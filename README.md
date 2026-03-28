@@ -15,13 +15,16 @@ Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na
 
  ## Tecnologias que estou aprendendo:
 ☕ Java
-🧱 Programação Orientada a Objetos (POO)
-🔧 Git e GitHub
-💻 Lógica de programação
-🗄️ (em aprendizado) Banco de Dados
-📂 Projetos
 
-Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
+🧱 Programação Orientada a Objetos (POO)
+
+🔧 Git e GitHub
+
+💻 Lógica de programação
+
+🗄️ (em aprendizado) Banco de Dados
+
+## Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
 
 🔹 https://github.com/John-code273/ExercicioData-hora02
 
@@ -32,15 +35,16 @@ O que o programa faz:
 Lê uma data-hora em UTC (ISO 8601) Converte para o horário local,
 Formata as datas, Calcula: +2 horas +3 dias.
 
-🔹 [Nome do Projeto 2]
+🔹 https://github.com/John-code273/ExercicioData-hora
 
-Pequena descrição
-Exemplo: Aplicação simples para controle de gastos
+Este projeto é um programa em Java que: Lê o nome do usuário,
+Lê a data de nascimento, Calcula a idade, Mostra a data e hora do cadastro,
+Informa se o usuário é maior ou menor de idade.
 
-🔹 [Nome do Projeto 3]
+🔹 https://github.com/John-code273/Estudos06
 
-Pequena descrição
-Exemplo: Simulação de sistema bancário com classes e herança
+Estudos de POO.
+Criando uma conta bancaria com: Constructors, Sobrecarga, metodos Getters e Setters.
 
  ## Objetivos
 🚀 Conseguir minha primeira vaga de estágio como desenvolvedor Java
