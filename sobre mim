@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>John Abner | Portfólio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+    }
+
+    header {
+      text-align: center;
+      padding: 40px 20px;
+      background: #020617;
+    }
+
+    h1 {
+      margin: 10px 0;
+      font-size: 2.5em;
+    }
+
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 30px 20px;
+    }
+
+    h2 {
+      color: #38bdf8;
+      border-bottom: 2px solid #38bdf8;
+      padding-bottom: 5px;
+    }
+
+    .card {
+      background: #1e293b;
+      padding: 15px;
+      border-radius: 10px;
+      margin: 15px 0;
+    }
+
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #020617;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>John Abner</h1>
+  <p>🎓 Estudante do 3º ano do ensino médio</p>
+  <p>💻 Focado em desenvolvimento Java</p>
+</header>
+
+<section>
+  <h2>🚀 Sobre mim</h2>
+  <p>
+    Atualmente estou estudando Programação Orientada a Objetos com Java e desenvolvendo projetos práticos para consolidar meus conhecimentos e conquistar minha primeira oportunidade como desenvolvedor.
+  </p>
+  <p>
+    Sou um estudante dedicado à área de tecnologia, com foco em desenvolvimento back-end utilizando Java. Tenho uma base sólida em lógica de programação e estou evoluindo constantemente através de cursos e projetos próprios.
+  </p>
+  <p>
+    Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática e crescer como desenvolvedor.
+  </p>
+</section>
+
+<section>
+  <h2>🧠 Tecnologias</h2>
+  <ul>
+    <li>☕ Java</li>
+    <li>🧱 Programação Orientada a Objetos (POO)</li>
+    <li>🔧 Git e GitHub</li>
+    <li>💻 Lógica de programação</li>
+    <li>🗄️ Banco de Dados (em aprendizado)</li>
+  </ul>
+</section>
+
+<section>
+  <h2>📂 Projetos</h2>
+
+  <div class="card">
+    <h3><a href="https://github.com/John-code273/ExercicioData-hora02" target="_blank">ExercicioData-hora02</a></h3>
+    <p>Exercício prático em Java utilizando a API java.time.</p>
+    <p>Funções: conversão de horário, formatação e cálculos (+2 horas, +3 dias).</p>
+  </div>
+
+  <div class="card">
+    <h3><a href="https://github.com/John-code273/ExercicioData-hora" target="_blank">ExercicioData-hora</a></h3>
+    <p>Programa que lê dados do usuário e calcula idade.</p>
+    <p>Inclui data de cadastro e verificação de maioridade.</p>
+  </div>
+
+  <div class="card">
+    <h3><a href="https://github.com/John-code273/Estudos06" target="_blank">Estudos06</a></h3>
+    <p>Projeto focado em Programação Orientada a Objetos.</p>
+    <p>Conta bancária com construtores, sobrecarga e getters/setters.</p>
+  </div>
+
+</section>
+
+<section>
+  <h2>📈 Objetivos</h2>
+  <ul>
+    <li>🚀 Conseguir minha primeira vaga de estágio como desenvolvedor Java</li>
+    <li>📚 Aprofundar conhecimentos em back-end</li>
+    <li>🏗️ Desenvolver projetos mais completos e reais</li>
+  </ul>
+</section>
+
+<section>
+  <h2>📫 Contato</h2>
+  <p>Email: john.silvaromao@gmail.com</p>
+  <p><a href="https://linkedin.com/in/john-abner-287447314" target="_blank">LinkedIn</a></p>
+  <p><a href="https://github.com/John-code273" target="_blank">GitHub</a></p>
+</section>
+
+<footer>
+  <p>"Aprender programação é construir o futuro com código."</p>
+</footer>
+
+</body>
+</html>
+
