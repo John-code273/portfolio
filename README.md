@@ -6,7 +6,7 @@
 Atualmente estou estudando Programação Orientada a Objetos com Java e desenvolvendo projetos práticos para consolidar
 meus conhecimentos e conquistar minha primeira oportunidade como desenvolvedor.
 
-## Sobre mim
+## Sobre mim:
 
 Sou um estudante dedicado à área de tecnologia, com foco em desenvolvimento back-end utilizando Java.
 Tenho uma base sólida em lógica de programação e estou evoluindo constantemente através de cursos e projetos próprios.
@@ -46,12 +46,12 @@ Informa se o usuário é maior ou menor de idade.
 Estudos de POO.
 Criando uma conta bancaria com: Constructors, Sobrecarga, metodos Getters e Setters.
 
- ## Objetivos
+ ## Objetivos:
 🚀 Conseguir minha primeira vaga de estágio como desenvolvedor Java
 📚 Aprofundar conhecimentos em back-end
 🏗️ Desenvolver projetos mais completos e reais
 
- ## Contatos
+ ## Contatos:
  Email: john.silvaromao@gmail.com
  
  LinkedIn: https://linkedin.com/in/john-abner-287447314
