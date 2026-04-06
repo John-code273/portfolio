@@ -24,6 +24,14 @@ Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na
 
 🗄️ (em aprendizado) Banco de Dados
 
+## Capacitaçao e formaçao
+
+ Livros: Java 7 - Ensino Didático (Sérgio Furgeri).
+         Banco de Dados: Projeto e Implementação, de Felipe Nery Rodrigues Machado.
+         
+ Cursos: jAVA completo orientado a objetos, de Nelio Alves (em andamento).
+         Banco de dados, do Curso em video.
+         
 ## Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
 
 🔹 https://github.com/John-code273/ExercicioData-hora02
