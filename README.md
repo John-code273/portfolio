@@ -47,9 +47,9 @@ Estudos de POO.
 Criando uma conta bancaria com: Constructors, Sobrecarga, metodos Getters e Setters.
 
  ## Objetivos:
- Conseguir minha primeira vaga de estágio como desenvolvedor Java
- Aprofundar conhecimentos em back-end
- Desenvolver projetos mais completos e reais
+ Conseguir minha primeira vaga de estágio como desenvolvedor Java,
+ Aprofundar conhecimentos em back-end,
+ Desenvolver projetos mais completos e reais.
 
  ## Contatos:
  Email: john.silvaromao@gmail.com
