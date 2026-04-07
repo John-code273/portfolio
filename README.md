@@ -24,6 +24,8 @@ Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na
 
 🗄️ (em aprendizado) Banco de Dados
 
+📌 (em aprendizado) Spring Boot
+
 ## Capacitaçao e formaçao
 
  Livros: Java 7 - Ensino Didático (Sérgio Furgeri).
